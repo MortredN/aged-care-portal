@@ -1,5 +1,13 @@
 # AgedCarePortal
 
+To run the portal, head to http://aged-care.herokuapp.com/ and wait a minute for the app to exit sleep mode. 
+
+Documentation for the app can be found here:
+
+USER MANUAL:https://drive.google.com/open?id=13oc7j7VQjAGIbx7QhNq4mN4TtTPT8Lo4wSEAzzJutDw
+
+SYSTEM MAINTENANCE DOCUMENT: https://drive.google.com/open?id=1nrZltDd7fjK-jPwVM1bUHqGcnxHPAHjgro1edOO32AU
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
 ## Development server
